@@ -1,2 +1,1 @@
-# Manuka_Seshan_Weeraman
-Assignment-Ancestry
+AI_ASSIGNMENT
